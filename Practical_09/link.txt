@@ -1,0 +1,5 @@
+Additionally, I am providing the following link (https://polimi365-my.sharepoint.com/:f:/g/personal/10451445_polimi_it/EsA1uZwdi4lLkZl23p1LJBIBV5q0MiQjMAcO33v2MpbwWA?e=Vgo4yr) to download:
+
+The pre-computed search embeddings (for question answering)
+The pre-computed search index (computed on the embeddings, for question answering)
+The fine-tuned GPT-2 model on the Persona-Chat corpus (you can try writing custom personae for you and the chatbot and have fun talking).
