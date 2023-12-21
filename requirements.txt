@@ -18,7 +18,7 @@ stanza
 plac
 torch
 tensorflow
-transformers==4.22.2
+transformers==4.36.0
 datasets
 ktrain
 eli5
